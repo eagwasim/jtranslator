@@ -1,4 +1,4 @@
-# Project Title
+# JTranslator
 
 JTransalator is a javascript library for converting a JSON request to a different key structure using a config 
 
